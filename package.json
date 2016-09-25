@@ -1,0 +1,22 @@
+{
+  "name": "personalManage",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "antd": "^1.11.1",
+    "antd-mobile": "^0.8.6",
+    "date-format": "0.0.2",
+    "material-ui": "^0.15.4",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.3.2",
+    "react-addons-pure-render-mixin": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "react-tap-event-plugin": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.0.0"
+  }
+}

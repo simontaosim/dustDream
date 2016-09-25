@@ -1,0 +1,5 @@
+/* CSS declarations go here */
+.checked {
+  color: #888;
+  text-decoration: line-through;
+}
